@@ -3,8 +3,7 @@
 I made an single motor RC tailless aircraft with a custom flight controller based on STM32. It is based on STM32 and end design will be inspired by LEGO.
 
 
-<img width="825" height="435" alt="Screenshot 2026-06-15 010036" src="https://github.com/user-attachments/assets/bf42fd82-a692-41fe-8323-28adbbce3197" />
-
+<img width="1271" height="666" alt="Screenshot 2026-06-15 010751" src="https://github.com/user-attachments/assets/99b2a670-5412-48dc-824f-5e63984706a9" />
 ## Features
 
 Microcontroller: STM32F401CBUx<br>
